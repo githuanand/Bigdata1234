@@ -1,0 +1,1329 @@
+sandbox-hdp login: root                                                                                                                              
+root@sandbox-hdp.hortonworks.com's password:                                                                                                         
+Last login: Wed Mar 13 07:07:51 2024 from 172.18.0.2                                                                                                 
+[root@sandbox-hdp ~]# hadoop fs -ls                                                                                                                  
+Found 273 items                                                                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-03-20 06:05 {hive_metastore_warehouse_dir}                                                                  
+drwx------   - root hdfs          0 2024-02-29 06:37 .Trash                                                                                          
+drwx------   - root hdfs          0 2024-02-22 06:15 .staging                                                                                        
+-rw-r--r--   1 root hdfs        795 2023-04-24 05:44 66.csv                                                                                          
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:33 777                                                                                             
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:48 AD64                                                                                            
+-rw-r--r--   4 root hdfs         24 2023-04-03 09:09 AK                                                                                              
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:57 Abhishek                                                                                        
+drwxrwxrwx   - root hdfs          0 2023-04-24 07:04 Abir                                                                                            
+-rw-rw-rw-   1 root hdfs         12 2023-05-08 13:51 Anurag                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:21 Anushka                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-05-02 08:50 Arka                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-25 10:07 Arkahul732                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:34 Cherry                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:31 Cherry2                                                                                         
+-rw-r--r--   1 root hdfs          0 2023-03-27 06:12 IT                                                                                              
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:25 MYDIR24_17                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:25 MYDIR24_29                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:21 Mou                                                                                             
+-rw-r--r--   1 root hdfs          0 2023-04-24 07:34 NewFile                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:06 Newfile                                                                                         
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:54 PDRB                                                                                            
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:19 Param2_31                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:19 Param3_31                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:15 Param_31                                                                                        
+-rw-r--r--   4 root hdfs         24 2023-04-03 09:10 Ritu3                                                                                           
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:14 SACCHA_ASHIQ                                                                                    
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:04 SACHHA_ASHIQ                                                                                    
+-rw-r--r--   1 root hdfs          0 2023-03-27 11:52 SDRB                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:31 Sarnendu                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:31 Sarnendu10                                                                                      
+drwxrwxrwx   - root hdfs          0 2023-04-03 09:12 Sayantan                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:09 Srijit                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:16 abhirup                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:31 abhirup_11                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:44 aman                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 ananya                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:05 anurag                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:44 baban                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:26 bajechele                                                                                       
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:33 chat.txt                                                                                        
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 chayaaaan                                                                                       
+-rw-r--r--   4 root hdfs         21 2023-04-03 09:10 chiku.txt                                                                                       
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:33 chmod                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:59 d3350                                                                                           
+drwxr-xr-x   - root hdfs          0 2024-02-22 06:12 d40                                                                                             
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:43 d5960                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd40                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 06:17 dd44                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd49                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 06:15 dd51                                                                                            
+-rw-r--r--   1 root hdfs        177 2023-04-24 05:07 dd55                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:11 dd5560                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:07 dd56                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd57                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:08 dd5960                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:22 dd61                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd64                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:19 dd66                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:59 dd67                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:06 dd68                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:59 dd69                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd70                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:23 diptanu                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 06:31 dipu88                                                                                          
+drwxrwxrwx   - root hdfs          0 2024-02-15 06:06 dir1                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:10 dir2                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 07:44 doc1.csv                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 06:45 doc2.csv                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:55 docor.csv                                                                                       
+-rw-r--r--   1 root hdfs          0 2023-04-24 07:33 doctordata.csv._COPYING_                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-24 06:06 dotor.csv                                                                                       
+-rw-r--r--   4 root hdfs         28 2023-04-03 09:10 f2.txt                                                                                          
+-rw-r--r--   4 root hdfs         28 2023-04-03 09:10 f3.txt                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:48 f64                                                                                             
+-rw-r--r--   1 root hdfs          0 2024-02-15 05:57 ff                                                                                              
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:48 file                                                                                            
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:49 file1                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:00 file1_24                                                                                        
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:52 file57                                                                                          
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoofile_24_24                                                                                 
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:52 hadoopdir-24-28                                                                                 
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:48 hadoopfil_24_11                                                                                 
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:50 hadoopfile                                                                                      
+-rw-r--r--   1 root hdfs          0 2023-05-08 14:09 hadoopfile..txt                                                                                 
+-rw-r--r--   1 root hdfs          0 2023-05-08 13:40 hadoopfile.txt                                                                                  
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:18 hadoopfile1                                                                                     
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:24 hadoopfile1_24_27                                                                               
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:48 hadoopfile2_24_11                                                                               
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:45 hadoopfile69                                                                                    
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoopfile_24_03                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_035                                                                               
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_07                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoopfile_24_10                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:24 hadoopfile_24_11                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoopfile_24_13                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:21 hadoopfile_24_18                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_21                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_32                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:21 hadoopfile_24_34                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:23 hadoopfile_24_36                                                                                
+-rw-r--r--   1 root hdfs          0 2024-02-29 07:14 hadoopfile_31                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:25 hdfs_24_10                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:36 hdfs_24_21                                                                                      
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:25 hdfs_24_34                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:03 hdfsdir                                                                                         
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir-24-23                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:56 hdfsdir-24-28                                                                                   
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:02 hdfsdir-68                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:03 hdfsdir01                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:51 hdfsdir22                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:51 hdfsdir24_17                                                                                    
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:19 hdfsdir44                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:52 hdfsdir5                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:58 hdfsdir68                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:13 hdfsdir_03                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:24 hdfsdir_055                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:25 hdfsdir_060                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:00 hdfsdir_1                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:11 hdfsdir_24                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:45 hdfsdir_24_007                                                                                  
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:35 hdfsdir_24_03                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:20 hdfsdir_24_031                                                                                  
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:43 hdfsdir_24_035                                                                                  
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:35 hdfsdir_24_10                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:50 hdfsdir_24_11                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir_24_12                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:37 hdfsdir_24_13                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:35 hdfsdir_24_18                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir_24_19                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:45 hdfsdir_24_20                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:47 hdfsdir_24_24                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:53 hdfsdir_24_27                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:52 hdfsdir_24_29                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:52 hdfsdir_24_30                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:34 hdfsdir_24_31                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:52 hdfsdir_24_32                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:36 hdfsdir_24_34                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:47 hdfsdir_24_36                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir_24_37                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:47 hdfsdir_34_031                                                                                  
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:03 hdfsdir_35                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-05-08 13:54 hdfsdir_5                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:42 hdfsdir_64                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-05-08 09:54 hdfsdir_youroll                                                                                 
+-rw-r--r--   1 root hdfs          0 2023-05-08 09:52 hdfsdir_yourroll                                                                                
+drwxr-xr-x   - root hdfs          0 2023-03-20 06:08 id.out                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-03-20 06:22 id1.csv                                                                                         
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:12 imdead                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:10 imdeadalready                                                                                   
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:11 ippo                                                                                            
+d---------   - root hdfs          0 2023-04-03 08:40 keshaw                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:14 lippo                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:05 mkdir                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:47 mkdir_039                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:43 mkdir_066                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 09:58 myd                                                                                             
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:06 mydie-24-05                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:07 mydir                                                                                           
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir-24-01                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:00 mydir-24-05                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:03 mydir-24-12                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:59 mydir-24-22                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:11 mydir-24-23                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:01 mydir-24-24                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:03 mydir-24-28                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:03 mydir-24-37                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:25 mydir02_09_2001                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-05-02 09:00 mydir06                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:29 mydir12-11-2002                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:08 mydir23                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 09:03 mydir23-11-2000                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:27 mydir24                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:34 mydir25                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:23 mydir25_06_2002                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:11 mydir25_12_2001                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:08 mydir33                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:26 mydir37                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 09:03 mydir37-11-2002                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:06 mydir38                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-27 06:20 mydir49                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:57 mydir57                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:59 mydir61                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:57 mydir64                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:40 mydir67                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:02 mydir68                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:40 mydir69                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:55 mydir70                                                                                         
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:26 mydir_03                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:03 mydir_039                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:21 mydir_055                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:39 mydir_060                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:33 mydir_1                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:03 mydir_11                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:35 mydir_14                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:08 mydir_16                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:22 mydir_218                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:01 mydir_24                                                                                        
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:01 mydir_24_007                                                                                    
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_035                                                                                    
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_10                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:03 mydir_24_11                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:26 mydir_24_13                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:00 mydir_24_18                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir_24_19                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir_24_20                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_21                                                                                     
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:23 mydir_24_24                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:00 mydir_24_27                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir_24_30                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:00 mydir_24_31                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:01 mydir_24_32                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:46 mydir_24_34                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_36                                                                                     
+-rw-r--r--   1 root hdfs         49 2024-03-13 07:00 mydir_24_37                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:36 mydir_26                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:02 mydir_27                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:01 mydir_34                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:55 mydir_35                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:13 mydir_44                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:02 mydir_5                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:02 mydir_68                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 09:49 mydir_youroll                                                                                   
+-rw-r--r--   1 root hdfs          0 2023-05-08 09:48 mydir_yourroll                                                                                  
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:29 mydiranindita                                                                                   
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:35 mydirdeblina                                                                                    
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:44 newdir                                                                                          
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:23 newfile                                                                                         
+-rw-r--r--   1 root hdfs          6 2024-03-13 06:58 newfile_24_11                                                                                   
+-rw-r--r--   1 root hdfs         59 2024-03-13 06:58 newfile_24_12.txt                                                                               
+-rw-r--r--   1 root hdfs         31 2024-03-13 06:58 newfile_24_24                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:58 newfile_24_32                                                                                   
+-rw-r--r--   1 root hdfs          7 2024-03-13 06:59 newfile_24_36                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:18 oreo                                                                                            
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:24 param                                                                                           
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:36 param2                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:50 pintu                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 piyu55                                                                                          
+drwxr-xr-x   - root hdfs          0 2024-02-01 06:05 postgresexport                                                                                  
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:50 pri                                                                                             
+-rw-r--r--   1 root hdfs          0 2023-03-27 11:56 pri02                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:12 pri56                                                                                           
+-rw-r--r--   1 root hdfs          0 2023-05-08 10:28 pritha                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:29 prithaexam                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:10 ratan                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:38 riya                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:15 s66                                                                                             
+-rw-r--r--   1 root hdfs          0 2023-03-27 06:11 saikat                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-27 12:06 saikat44                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 shreya                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:56 sonu                                                                                            
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:11 sonu1                                                                                           
+-rw-r--r--   1 root hdfs          8 2023-03-20 12:00 sonu2                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 sony                                                                                            
+-rw-r--r--   4 root hdfs         51 2023-04-03 09:10 srij.txt                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:04 srijita                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 09:27 srz                                                                                             
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:38 sup                                                                                             
+-rw-r--r--   1 root hdfs        176 2023-04-24 05:15 sura.csv                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-25 10:03 swati_030                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:13 swati_30                                                                                        
+drwxr-xr-x   - root hdfs          0 2024-02-22 06:14 t1                                                                                              
+drwxr-xr-x   - root hdfs          0 2024-02-22 06:15 t2                                                                                              
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:52 tanishaexam                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:14 test                                                                                            
+-rw-r--r--   1 root hdfs          0 2023-03-10 05:18 test1.txt                                                                                       
+-rw-r--r--   4 root hdfs          0 2023-03-14 07:40 test2.txt                                                                                       
+-rw-r--r--   4 root hdfs          0 2023-03-14 08:18 test3.txt                                                                                       
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:24 testfl1                                                                                         
+-rw-r--r--   4 root hdfs         12 2023-04-03 09:08 text5.txt                                                                                       
+drw-r--r--   - root hdfs          0 2024-02-01 06:19 tt                                                                                              
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:29 vivek                                                                                           
+-rwxr-xr-x   1 root hdfs          0 2023-03-27 06:10 zonu                                                                                            
+[root@sandbox-hdp ~]# hadoop fs -copyFromLocal newfile_24_17.txt /user/root/MYDIR24_17                                                               
+[root@sandbox-hdp ~]# ls                                                                                                                             
+45               Cherry         doctor15.csv    file3              jelly           newfile_24_12.txt  pintu2       t1                                
+66               d40            doctor18.csv    file38.txt         Manisha         newfile_24_13      pri02        t1.java
+66.csv           d44            doctor23.csv    file57             Manisha2        newfile_24_17.txt  pri022       t1.txt
+aa.txt           d49            Doctor23.csv    file70             myfile          newfile_24_18      p.txt        t2.java
+Ab               d51            doctor2628.csv  file.txt           myfile1         newfile_24_19      Querry.txt   t3.java
+ABCD             d5560          doctor_30.csv   f.txt              myfile2         newfile_24_20      rimjhim.txt  test3.txt
+abhishek         d56            Doctor_30.csv   hadoopfile         myfile.txt      newfile_24_20.txt  Ritika       test4.txt
+aditi            d57            Doctor33.csv    hadoopfile1_24_03  newfile         newfile_24_21      Ritu         text2.txt
+AD.tx            d5960          doctor38.csv    hadoopfile1_24_18  NewFile         newfile_24_24      Ritu2        text3.txt
+anaconda-ks.cfg  d61            doctor5.csv     hadoopfile1_24_27  newfile-01.txt  newfile_24_27      Riya         text4.txt
+ananya           d64            doctor.csv      hadoopfile1.txt    newfile-05.txt  newfile-24-28      s69          text55.txt
+ananya.txt       d66            Doctor.csv      hadoopfile_24_035  newfile1        newfile_24_29.txt  saikat2      text5.txt
+anindita         d67            doctordata.csv  hadoopfile_24_07   newfile1_24_11  newfile_24_30      SDRB         textfile
+Ankesh           d68            f1.txt          hadoopfile_24_21   newfile1.txt    newfile_24_31.txt  sonu2        textfile.txt
+anu.txt          d69            f264            hadoopfile_24_24   Newfile1.txt    newfile_24_32      sony         tt.txtx
+ar48             d70            f2.txt          hadoopfile_24_32   newfile2        newfile_24_34      sony.txt     wfile.txt
+arko48           datas.csv      failure.txt     hadoopfile.text    newfile22.txt   newfile_24_36      srij         zfile.txt                         
+Ayu              dfile.txt      ff              hadoopfile.txt     newfile-23.txt  newfile-24-37.txt  ss           zonu1                             
+Ayushi           docor.csv      file            halo.txt           newfile_24_03   newfile5           ss2.txt      zonu2                             
+bajekotha.txt    doctor_03.csv  file1.txt       hdfsdir_yourroll   newfile_24_035  newfile.txt        stud1.java
+bhalokotha.txt   doctor06       file2           hola.txt           newfile_24_07   pallab67           sura.csv                                       
+brAvo.txt        doctor06.csv   file25.txt      IT                 newfile_24_10   PD28               swati2                                         
+cherry           doctor11.csv   file2.txt       jaldevta.csv       newfile_24_11   PDRB               swati2.txt                                     
+[root@sandbox-hdp ~]# hadoop fs -copyToLocal textfile.txt /user/root/MYDIR24_17                                                                      
+copyToLocal: `/user/root/MYDIR24_17': No such file or directory: `file:///user/root/MYDIR24_17'                                                      
+[root@sandbox-hdp ~]# ls -l                                                                                                                          
+total 584                                                                                                                                            
+-rw-r--r-- 1 root root    96 Apr 24  2023 45                                                                                                         
+-rw-r--r-- 1 root root   153 Apr 24  2023 66                                                                                                         
+-rw-r--r-- 1 root root   795 Apr 24  2023 66.csv                                                                                                     
+-rw-r--r-- 1 root root    32 Mar 18  2023 aa.txt                                                                                                     
+-rw-r--r-- 1 root root     0 Mar 20  2023 Ab                                                                                                         
+-rw-r--r-- 1 root root    12 Mar 20  2023 ABCD                                                                                                       
+-rw-r--r-- 1 root root     0 May  8  2023 abhishek                                                                                                   
+-rw-r--r-- 1 root root    12 Apr  3  2023 aditi                                                                                                      
+-rw-r--r-- 1 root root     9 May  8  2023 AD.tx                                                                                                      
+-rw------- 1 root root  3302 May 31  2018 anaconda-ks.cfg                                                                                            
+-rw-r--r-- 1 root root    15 Mar 27  2023 ananya                                                                                                     
+-rw-r--r-- 1 root root    15 Mar 27  2023 ananya.txt                                                                                                 
+-rw-r--r-- 1 root root    27 Apr  3  2023 anindita                                                                                                   
+-rw-r--r-- 1 root root     0 Mar 27  2023 Ankesh                                                                                                     
+-rwx-w---x 1 root root    51 Apr  3  2023 anu.txt
+-rw-r--r-- 1 root root     0 Mar 27  2023 ar48                                                                                                       
+-rw-r--r-- 1 root root    41 Mar 20  2023 arko48                                                                                                     
+-rw-r--r-- 1 root root    55 Apr  3  2023 Ayu                                                                                                        
+-rw-r--r-- 1 root root    24 Apr  3  2023 Ayushi                                                                                                     
+-rw-r--r-- 1 root root     0 Apr  3  2023 bajekotha.txt                                                                                              
+-rw-r--r-- 1 root root    21 Apr  3  2023 bhalokotha.txt                                                                                             
+-rw-r--r-- 1 root root    18 May  8  2023 brAvo.txt                                                                                                  
+-rw-r--r-- 1 root root    43 Apr  3  2023 cherry                                                                                                     
+-rw-r--r-- 1 root root    27 Apr  3  2023 Cherry                                                                                                     
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d40
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d44
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d49
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d51
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d5560
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d56
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d57
+drwxr-xr-x 2 root root  4096 Mar 27  2023 d5960
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d61
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d64
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d66
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d67
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d68
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d69
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d70
+-rw-r--r-- 1 root root   152 Apr 24  2023 datas.csv                                                                                                  
+-rw-r--r-- 1 root root     3 May  8  2023 dfile.txt                                                                                                  
+-rw-r--r-- 1 root root   177 Apr 24  2023 docor.csv                                                                                                  
+-rw-r--r-- 1 root root  3308 Apr 24  2023 doctor_03.csv                                                                                              
+-rw-r--r-- 1 root root   177 May  2  2023 doctor06                                                                                                   
+-rw-r--r-- 1 root root   180 May  2  2023 doctor06.csv                                                                                               
+-rw-r--r-- 1 root root   156 Apr 24  2023 doctor11.csv                                                                                               
+-rw-r--r-- 1 root root   177 Apr 24  2023 doctor15.csv                                                                                               
+-rw-r--r-- 1 root root   154 Apr 24  2023 doctor18.csv                                                                                               
+-rw-r--r-- 1 root root    24 May  2  2023 doctor23.csv                                                                                               
+-rw-r--r-- 1 root root   178 Apr 24  2023 Doctor23.csv                                                                                               
+-rw-r--r-- 1 root root   900 Apr 24  2023 doctor2628.csv                                                                                             
+-rw-r--r-- 1 root root     0 Apr 24  2023 doctor_30.csv                                                                                              
+-rw-r--r-- 1 root root    43 Apr 25  2023 Doctor_30.csv                                                                                              
+-rw-r--r-- 1 root root   177 Apr 24  2023 Doctor33.csv                                                                                               
+-rw-r--r-- 1 root root   177 May  2  2023 doctor38.csv                                                                                               
+-rw-r--r-- 1 root root   177 Apr 24  2023 doctor5.csv                                                                                                
+-rw-r--r-- 1 root root   177 May  2  2023 doctor.csv                                                                                                 
+-rw-r--r-- 1 root root   177 Apr 24  2023 Doctor.csv                                                                                                 
+-rw-r--r-- 1 root root   796 Apr 24  2023 doctordata.csv                                                                                             
+-rw-r--r-- 1 root root    32 Feb 15 05:58 f1.txt                                                                                                     
+-rw-r--r-- 1 root root     9 Mar 20  2023 f264                                                                                                       
+-rw-r--r-- 1 root root    40 Feb 15 06:05 f2.txt                                                                                                     
+-rw-r--r-- 1 root root    51 Apr  3  2023 failure.txt                                                                                                
+-rw-r--r-- 1 root root     0 Feb 15 05:57 ff                                                                                                         
+-rw-r--r-- 1 root root    31 Mar 20  2023 file                                                                                                       
+-rw-r--r-- 1 root root    17 Apr  3  2023 file1.txt                                                                                                  
+-rw-r--r-- 1 root root     0 Mar 20  2023 file2                                                                                                      
+-rw-r--r-- 1 root root    12 May  8  2023 file25.txt                                                                                                 
+-rw-r--r-- 1 root root     5 Apr  3  2023 file2.txt                                                                                                  
+-rw-r--r-- 1 root root    48 Apr  3  2023 file3                                                                                                      
+-rw-r--r-- 1 root root    12 May  8  2023 file38.txt                                                                                                 
+-rw-r--r-- 1 root root    31 Mar 20  2023 file57                                                                                                     
+-rw-r--r-- 1 root root    20 Mar 20  2023 file70                                                                                                     
+-rw-r--r-- 1 root root    10 May  8  2023 file.txt                                                                                                   
+-rwxrwxrwx 1 root root     4 Mar 20  2023 f.txt
+-rw-r--r-- 1 root root     0 May  8  2023 hadoopfile                                                                                                 
+-rw-r--r-- 1 root root     0 Mar 13 07:16 hadoopfile1_24_03                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 07:14 hadoopfile1_24_18                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 07:12 hadoopfile1_24_27                                                                                          
+-rw-r--r-- 1 root root    20 May  8  2023 hadoopfile1.txt                                                                                            
+-rw-r--r-- 1 root root     0 Mar 13 07:15 hadoopfile_24_07                                                                                           
+-rw-r--r-- 1 root root     0 Mar 13 07:13 hadoopfile_24_21                                                                                           
+drwxr-xr-x 2 root root  4096 Mar 13 07:12 hadoopfile_24_24
+-rw-r--r-- 1 root root     0 Mar 13 07:16 hadoopfile_24_32                                                                                           
+-rw-r--r-- 1 root root     0 Mar 13 07:12 hadoopfile.text                                                                                            
+-rw-r--r-- 1 root root     0 May  8  2023 hadoopfile.txt                                                                                             
+-rw-r--r-- 1 root root    44 Apr  3  2023 halo.txt                                                                                                   
+drwxr-xr-x 2 root root  4096 May  8  2023 hdfsdir_yourroll
+-rw-r--r-- 1 root root    67 Apr  3  2023 hola.txt                                                                                                   
+-rw-r--r-- 1 root root     8 Mar 27  2023 IT                                                                                                         
+-rw-r--r-- 1 root root   161 Apr 24  2023 jaldevta.csv                                                                                               
+-rw-r--r-- 1 root root    21 Apr  3  2023 jelly                                                                                                      
+-rw-r--r-- 1 root root    12 Apr  3  2023 Manisha                                                                                                    
+-rw-r--r-- 1 root root    68 Apr  3  2023 Manisha2                                                                                                   
+-rw-r--r-- 1 root root     0 Mar 27  2023 myfile                                                                                                     
+-rw-r--r-- 1 root root    27 Mar 27  2023 myfile1                                                                                                    
+-rw-r--r-- 1 root root    34 Mar 27  2023 myfile2                                                                                                    
+-rw-r--r-- 1 root root    40 Mar 27  2023 myfile.txt                                                                                                 
+-rw-r--r-- 1 root root     0 Mar 13 05:59 newfile                                                                                                    
+-rw-r--r-- 1 root root    14 Apr  3  2023 NewFile                                                                                                    
+-rw-r--r-- 1 root root     9 Feb 29 07:07 newfile-01.txt                                                                                             
+-rw-r--r-- 1 root root     5 Mar 13 06:33 newfile-05.txt                                                                                             
+-rw-r--r-- 1 root root    26 Apr  3  2023 newfile1                                                                                                   
+-rw-r--r-- 1 root root     0 Mar 13 07:02 newfile1_24_11                                                                                             
+-rw-r--r-- 1 root root    15 Apr  3  2023 newfile1.txt                                                                                               
+-rw-r--r-- 1 root root    12 May  8  2023 Newfile1.txt                                                                                               
+-rw-r--r-- 1 root root    26 May  8  2023 newfile2                                                                                                   
+-rw-r--r-- 1 root root     1 Mar 13 06:50 newfile22.txt                                                                                              
+-rw-r--r-- 1 root root     6 Feb 29 07:04 newfile-23.txt                                                                                             
+-rw-r--r-- 1 root root     0 Mar 13 06:55 newfile_24_03                                                                                              
+-rw-r--r-- 1 root root     5 Mar 13 06:55 newfile_24_035                                                                                             
+-rw-r--r-- 1 root root     0 Mar 13 06:55 newfile_24_07                                                                                              
+-rw-r--r-- 1 root root    19 Mar 13 06:57 newfile_24_10                                                                                              
+-rw-r--r-- 1 root root     6 Mar 13 06:56 newfile_24_11                                                                                              
+-rw-r--r-- 1 root root    59 Feb 29 07:08 newfile_24_12.txt                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 06:56 newfile_24_13                                                                                              
+-rw-r--r-- 1 root root     7 Mar 13 06:56 newfile_24_17.txt                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 06:55 newfile_24_18                                                                                              
+-rw-r--r-- 1 root root    12 Feb 29 07:06 newfile_24_19                                                                                              
+-rw-r--r-- 1 root root     8 Feb 29 07:07 newfile_24_20                                                                                              
+-rw-r--r-- 1 root root     0 Feb 29 07:05 newfile_24_20.txt                                                                                          
+-rw-r--r-- 1 root root     6 Mar 13 06:56 newfile_24_21                                                                                              
+-rw-r--r-- 1 root root    31 Mar 13 06:55 newfile_24_24                                                                                              
+-rw-r--r-- 1 root root     0 Mar 13 06:55 newfile_24_27                                                                                              
+-rw-r--r-- 1 root root     8 Feb 29 07:09 newfile-24-28                                                                                              
+-rw-r--r-- 1 root root    15 Mar 13 06:57 newfile_24_29.txt                                                                                          
+-rw-r--r-- 1 root root    20 Feb 29 07:07 newfile_24_30                                                                                              
+-rw-r--r-- 1 root root    36 Mar 13 06:56 newfile_24_31.txt                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 06:55 newfile_24_32                                                                                              
+-rw-r--r-- 1 root root     0 Mar 13 06:56 newfile_24_34                                                                                              
+-rw-r--r-- 1 root root     7 Mar 13 06:56 newfile_24_36                                                                                              
+-rw-r--r-- 1 root root    49 Feb 29 07:08 newfile-24-37.txt                                                                                          
+-rw-r--r-- 1 root root     0 May  8  2023 newfile5                                                                                                   
+-rw-r--r-- 1 root root    11 Feb 29 07:06 newfile.txt                                                                                                
+-rw-r--r-- 1 root root     0 Mar 13 07:17 newfl05.txt                                                                                                
+-rw-r--r-- 1 root root    20 Mar 27  2023 pallab67                                                                                                   
+-rw-r--r-- 1 root root    16 Mar 27  2023 PD28                                                                                                       
+-rw-r--r-- 1 root root    51 Mar 20  2023 PDRB                                                                                                       
+-rw-r--r-- 1 root root     0 Mar 20  2023 pintu2                                                                                                     
+-rw-r--r-- 1 root root    33 Mar 27  2023 pri02                                                                                                      
+-rw-r--r-- 1 root root     0 Mar 27  2023 pri022                                                                                                     
+-rw-r--r-- 1 root root     0 Feb 29 06:48 p.txt                                                                                                      
+-rw-r--r-- 1 root root     0 Apr  3  2023 Querry.txt                                                                                                 
+-rw-r--r-- 1 root root    12 Feb 29 07:05 rimjhim.txt                                                                                                
+-rw-r--r-- 1 root root     0 Apr  3  2023 Ritika                                                                                                     
+-rw-r--r-- 1 root root    24 Apr  3  2023 Ritu                                                                                                       
+-rw-r--r-- 1 root root    82 Apr  3  2023 Ritu2                                                                                                      
+-rw-r--r-- 1 root root    33 Mar 27  2023 Riya                                                                                                       
+-rw-r--r-- 1 root root     5 Mar 27  2023 s69                                                                                                        
+-rw-r--r-- 1 root root    15 Mar 27  2023 saikat2                                                                                                    
+-rw-r--r-- 1 root root    23 Mar 27  2023 SDRB                                                                                                       
+-rw-r--r-- 1 root root     8 Mar 20  2023 sonu2                                                                                                      
+-rw-r--r-- 1 root root    15 Mar 27  2023 sony                                                                                                       
+-rw-r--r-- 1 root root    15 Mar 27  2023 sony.txt                                                                                                   
+-rw-r--r-- 1 root root    51 Apr  3  2023 srij                                                                                                       
+-rw-r--r-- 1 root root    16 Mar 27  2023 ss                                                                                                         
+-rw-r--r-- 1 root root    10 Mar 27  2023 ss2.txt                                                                                                    
+-rw-r--r-- 1 root root 10941 Feb 15 06:13 stud1.java                                                                                                 
+-rw-r--r-- 1 root root   176 Apr 24  2023 sura.csv                                                                                                   
+-rw-r--r-- 1 root root    28 Apr  3  2023 swati2                                                                                                     
+-rw-r--r-- 1 root root    26 Apr 24  2023 swati2.txt                                                                                                 
+-rw-r--r-- 1 root root     0 Feb 29 06:21 t1                                                                                                         
+-rw-r--r-- 1 root root  8883 Feb  7 05:10 t1.java                                                                                                    
+-rw-r--r-- 1 root root    13 Mar 10  2023 t1.txt                                                                                                     
+-rw-r--r-- 1 root root 10893 Feb  7 06:38 t2.java                                                                                                    
+-rw-r--r-- 1 root root 10893 Feb  2 09:03 t3.java                                                                                                    
+-rw-r--r-- 1 root root     0 Apr  3  2023 test3.txt                                                                                                  
+-rw-r--r-- 1 root root    12 May  8  2023 test4.txt                                                                                                  
+-rw-r--r-- 1 root root     0 Apr  3  2023 text2.txt                                                                                                  
+-rw-r--r-- 1 root root    12 Apr  3  2023 text3.txt                                                                                                  
+-rw-r--r-- 1 root root    20 Apr  3  2023 text4.txt                                                                                                  
+-rw-r--r-- 1 root root     0 Feb 29 06:52 text55.txt                                                                                                 
+-rw-r--r-- 1 root root     0 Feb 29 06:51 text5.txt                                                                                                  
+-rw-r--r-- 1 root root  2853 Apr  3  2023 textfile                                                                                                   
+-rw-r--r-- 1 root root  2853 Apr  3  2023 textfile.txt                                                                                               
+-rw-r--r-- 1 root root     0 Feb 29 06:47 tt.txtx                                                                                                    
+-rw-r--r-- 1 root root    10 May  8  2023 wfile.txt                                                                                                  
+-rw-r--r-- 1 root root     0 May  8  2023 zfile.txt                                                                                                  
+-rw-r--r-- 1 root root     6 Mar 13 05:43 zonu1                                                                                                      
+-rw-r--r-- 1 root root    11 Mar 27  2023 zonu2                                                                                                      
+[root@sandbox-hdp ~]# hadoop fs -copyToLocal text5.txt /user/root/MYDIR24_17                                                                         
+copyToLocal: `/user/root/MYDIR24_17': No such file or directory: `file:///user/root/MYDIR24_17'                                                      
+[root@sandbox-hdp ~]# hadoop fs -ls /user/root/MYDIR24_17                                                                                            
+Found 2 items                                                                                                                                        
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:25 /user/root/MYDIR24_17/hadoopfile1_17                                                            
+-rw-r--r--   1 root hdfs          7 2024-03-13 07:09 /user/root/MYDIR24_17/newfile_24_17.txt                                                         
+[root@sandbox-hdp ~]# hadoop fs -copyToLocal /user/root/MYDIR24_17/hadoopfile1_17                                                                    
+[root@sandbox-hdp ~]# ls -l                                                                                                                          
+total 584                                                                                                                                            
+-rw-r--r-- 1 root root    96 Apr 24  2023 45                                                                                                         
+-rw-r--r-- 1 root root   153 Apr 24  2023 66                                                                                                         
+-rw-r--r-- 1 root root   795 Apr 24  2023 66.csv                                                                                                     
+-rw-r--r-- 1 root root    32 Mar 18  2023 aa.txt                                                                                                     
+-rw-r--r-- 1 root root     0 Mar 20  2023 Ab                                                                                                         
+-rw-r--r-- 1 root root    12 Mar 20  2023 ABCD                                                                                                       
+-rw-r--r-- 1 root root     0 May  8  2023 abhishek                                                                                                   
+-rw-r--r-- 1 root root    12 Apr  3  2023 aditi                                                                                                      
+-rw-r--r-- 1 root root     9 May  8  2023 AD.tx                                                                                                      
+-rw------- 1 root root  3302 May 31  2018 anaconda-ks.cfg                                                                                            
+-rw-r--r-- 1 root root    15 Mar 27  2023 ananya                                                                                                     
+-rw-r--r-- 1 root root    15 Mar 27  2023 ananya.txt                                                                                                 
+-rw-r--r-- 1 root root    27 Apr  3  2023 anindita                                                                                                   
+-rw-r--r-- 1 root root     0 Mar 27  2023 Ankesh                                                                                                     
+-rwx-w---x 1 root root    51 Apr  3  2023 anu.txt
+-rw-r--r-- 1 root root     0 Mar 27  2023 ar48                                                                                                       
+-rw-r--r-- 1 root root    41 Mar 20  2023 arko48                                                                                                     
+-rw-r--r-- 1 root root    55 Apr  3  2023 Ayu                                                                                                        
+-rw-r--r-- 1 root root    24 Apr  3  2023 Ayushi                                                                                                     
+-rw-r--r-- 1 root root     0 Apr  3  2023 bajekotha.txt                                                                                              
+-rw-r--r-- 1 root root    21 Apr  3  2023 bhalokotha.txt                                                                                             
+-rw-r--r-- 1 root root    18 May  8  2023 brAvo.txt                                                                                                  
+-rw-r--r-- 1 root root    43 Apr  3  2023 cherry                                                                                                     
+-rw-r--r-- 1 root root    27 Apr  3  2023 Cherry                                                                                                     
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d40
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d44
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d49
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d51
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d5560
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d56
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d57
+drwxr-xr-x 2 root root  4096 Mar 27  2023 d5960
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d61
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d64
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d66
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d67
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d68
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d69
+drwxr-xr-x 2 root root  4096 Mar 20  2023 d70
+-rw-r--r-- 1 root root   152 Apr 24  2023 datas.csv                                                                                                  
+-rw-r--r-- 1 root root     3 May  8  2023 dfile.txt                                                                                                  
+-rw-r--r-- 1 root root   177 Apr 24  2023 docor.csv                                                                                                  
+-rw-r--r-- 1 root root  3308 Apr 24  2023 doctor_03.csv                                                                                              
+-rw-r--r-- 1 root root   177 May  2  2023 doctor06                                                                                                   
+-rw-r--r-- 1 root root   180 May  2  2023 doctor06.csv                                                                                               
+-rw-r--r-- 1 root root   156 Apr 24  2023 doctor11.csv                                                                                               
+-rw-r--r-- 1 root root   177 Apr 24  2023 doctor15.csv                                                                                               
+-rw-r--r-- 1 root root   154 Apr 24  2023 doctor18.csv                                                                                               
+-rw-r--r-- 1 root root    24 May  2  2023 doctor23.csv                                                                                               
+-rw-r--r-- 1 root root   178 Apr 24  2023 Doctor23.csv                                                                                               
+-rw-r--r-- 1 root root   900 Apr 24  2023 doctor2628.csv                                                                                             
+-rw-r--r-- 1 root root     0 Apr 24  2023 doctor_30.csv                                                                                              
+-rw-r--r-- 1 root root    43 Apr 25  2023 Doctor_30.csv                                                                                              
+-rw-r--r-- 1 root root   177 Apr 24  2023 Doctor33.csv                                                                                               
+-rw-r--r-- 1 root root   177 May  2  2023 doctor38.csv                                                                                               
+-rw-r--r-- 1 root root   177 Apr 24  2023 doctor5.csv                                                                                                
+-rw-r--r-- 1 root root   177 May  2  2023 doctor.csv                                                                                                 
+-rw-r--r-- 1 root root   177 Apr 24  2023 Doctor.csv                                                                                                 
+-rw-r--r-- 1 root root   796 Apr 24  2023 doctordata.csv                                                                                             
+-rw-r--r-- 1 root root    32 Feb 15 05:58 f1.txt                                                                                                     
+-rw-r--r-- 1 root root     9 Mar 20  2023 f264                                                                                                       
+-rw-r--r-- 1 root root    40 Feb 15 06:05 f2.txt                                                                                                     
+-rw-r--r-- 1 root root    51 Apr  3  2023 failure.txt                                                                                                
+-rw-r--r-- 1 root root     0 Feb 15 05:57 ff                                                                                                         
+-rw-r--r-- 1 root root    31 Mar 20  2023 file                                                                                                       
+-rw-r--r-- 1 root root    17 Apr  3  2023 file1.txt                                                                                                  
+-rw-r--r-- 1 root root     0 Mar 20  2023 file2                                                                                                      
+-rw-r--r-- 1 root root    12 May  8  2023 file25.txt                                                                                                 
+-rw-r--r-- 1 root root     5 Apr  3  2023 file2.txt                                                                                                  
+-rw-r--r-- 1 root root    48 Apr  3  2023 file3                                                                                                      
+-rw-r--r-- 1 root root    12 May  8  2023 file38.txt                                                                                                 
+-rw-r--r-- 1 root root    31 Mar 20  2023 file57                                                                                                     
+-rw-r--r-- 1 root root    20 Mar 20  2023 file70                                                                                                     
+-rw-r--r-- 1 root root    10 May  8  2023 file.txt                                                                                                   
+-rwxrwxrwx 1 root root     4 Mar 20  2023 f.txt
+-rw-r--r-- 1 root root     0 May  8  2023 hadoopfile                                                                                                 
+-rw-r--r-- 1 root root     0 Mar 13 07:21 hadoopfile1_17                                                                                             
+-rw-r--r-- 1 root root     0 Mar 13 07:16 hadoopfile1_24_03                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 07:18 hadoopfile1_24_11                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 07:14 hadoopfile1_24_18                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 07:12 hadoopfile1_24_27                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 07:18 hadoopfile12.txt                                                                                           
+-rw-r--r-- 1 root root    20 May  8  2023 hadoopfile1.txt                                                                                            
+-rw-r--r-- 1 root root     0 Mar 13 07:18 hadoopfile_24_035                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 07:15 hadoopfile_24_07                                                                                           
+-rw-r--r-- 1 root root     0 Mar 13 07:13 hadoopfile_24_21                                                                                           
+drwxr-xr-x 2 root root  4096 Mar 13 07:12 hadoopfile_24_24
+-rw-r--r-- 1 root root     0 Mar 13 07:16 hadoopfile_24_32                                                                                           
+-rw-r--r-- 1 root root     0 Mar 13 07:18 hadoopfile_24_36                                                                                           
+-rw-r--r-- 1 root root     0 Mar 13 07:18 hadoopfile37.txt                                                                                           
+-rw-r--r-- 1 root root     0 Mar 13 07:12 hadoopfile.text                                                                                            
+-rw-r--r-- 1 root root     0 May  8  2023 hadoopfile.txt                                                                                             
+-rw-r--r-- 1 root root    44 Apr  3  2023 halo.txt                                                                                                   
+drwxr-xr-x 2 root root  4096 May  8  2023 hdfsdir_yourroll
+-rw-r--r-- 1 root root    67 Apr  3  2023 hola.txt                                                                                                   
+-rw-r--r-- 1 root root     8 Mar 27  2023 IT                                                                                                         
+-rw-r--r-- 1 root root   161 Apr 24  2023 jaldevta.csv                                                                                               
+-rw-r--r-- 1 root root    21 Apr  3  2023 jelly                                                                                                      
+-rw-r--r-- 1 root root    12 Apr  3  2023 Manisha                                                                                                    
+-rw-r--r-- 1 root root    68 Apr  3  2023 Manisha2                                                                                                   
+-rw-r--r-- 1 root root     0 Mar 27  2023 myfile                                                                                                     
+-rw-r--r-- 1 root root    27 Mar 27  2023 myfile1                                                                                                    
+-rw-r--r-- 1 root root    34 Mar 27  2023 myfile2                                                                                                    
+-rw-r--r-- 1 root root    40 Mar 27  2023 myfile.txt                                                                                                 
+-rw-r--r-- 1 root root     0 Mar 13 05:59 newfile                                                                                                    
+-rw-r--r-- 1 root root    14 Apr  3  2023 NewFile                                                                                                    
+-rw-r--r-- 1 root root     9 Feb 29 07:07 newfile-01.txt                                                                                             
+-rw-r--r-- 1 root root     5 Mar 13 06:33 newfile-05.txt                                                                                             
+-rw-r--r-- 1 root root    26 Apr  3  2023 newfile1                                                                                                   
+-rw-r--r-- 1 root root     0 Mar 13 07:02 newfile1_24_11                                                                                             
+-rw-r--r-- 1 root root    15 Apr  3  2023 newfile1.txt                                                                                               
+-rw-r--r-- 1 root root    12 May  8  2023 Newfile1.txt                                                                                               
+-rw-r--r-- 1 root root    26 May  8  2023 newfile2                                                                                                   
+-rw-r--r-- 1 root root     1 Mar 13 06:50 newfile22.txt                                                                                              
+-rw-r--r-- 1 root root     6 Feb 29 07:04 newfile-23.txt                                                                                             
+-rw-r--r-- 1 root root     0 Mar 13 06:55 newfile_24_03                                                                                              
+-rw-r--r-- 1 root root     5 Mar 13 06:55 newfile_24_035                                                                                             
+-rw-r--r-- 1 root root     0 Mar 13 06:55 newfile_24_07                                                                                              
+-rw-r--r-- 1 root root    19 Mar 13 06:57 newfile_24_10                                                                                              
+-rw-r--r-- 1 root root     6 Mar 13 06:56 newfile_24_11                                                                                              
+-rw-r--r-- 1 root root    59 Feb 29 07:08 newfile_24_12.txt                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 06:56 newfile_24_13                                                                                              
+-rw-r--r-- 1 root root     7 Mar 13 06:56 newfile_24_17.txt                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 06:55 newfile_24_18                                                                                              
+-rw-r--r-- 1 root root    12 Feb 29 07:06 newfile_24_19                                                                                              
+-rw-r--r-- 1 root root     8 Feb 29 07:07 newfile_24_20                                                                                              
+-rw-r--r-- 1 root root     0 Feb 29 07:05 newfile_24_20.txt                                                                                          
+-rw-r--r-- 1 root root     6 Mar 13 06:56 newfile_24_21                                                                                              
+-rw-r--r-- 1 root root    31 Mar 13 06:55 newfile_24_24                                                                                              
+-rw-r--r-- 1 root root     0 Mar 13 06:55 newfile_24_27                                                                                              
+-rw-r--r-- 1 root root     8 Feb 29 07:09 newfile-24-28                                                                                              
+-rw-r--r-- 1 root root    15 Mar 13 06:57 newfile_24_29.txt                                                                                          
+-rw-r--r-- 1 root root    20 Feb 29 07:07 newfile_24_30                                                                                              
+-rw-r--r-- 1 root root    36 Mar 13 06:56 newfile_24_31.txt                                                                                          
+-rw-r--r-- 1 root root     0 Mar 13 06:55 newfile_24_32                                                                                              
+-rw-r--r-- 1 root root     0 Mar 13 06:56 newfile_24_34                                                                                              
+-rw-r--r-- 1 root root     7 Mar 13 06:56 newfile_24_36                                                                                              
+-rw-r--r-- 1 root root    49 Feb 29 07:08 newfile-24-37.txt                                                                                          
+-rw-r--r-- 1 root root     0 May  8  2023 newfile5                                                                                                   
+-rw-r--r-- 1 root root    11 Feb 29 07:06 newfile.txt                                                                                                
+-rw-r--r-- 1 root root     0 Mar 13 07:17 newfl05.txt                                                                                                
+-rw-r--r-- 1 root root    20 Mar 27  2023 pallab67                                                                                                   
+-rw-r--r-- 1 root root    16 Mar 27  2023 PD28                                                                                                       
+-rw-r--r-- 1 root root    51 Mar 20  2023 PDRB                                                                                                       
+-rw-r--r-- 1 root root     0 Mar 20  2023 pintu2                                                                                                     
+-rw-r--r-- 1 root root    33 Mar 27  2023 pri02                                                                                                      
+-rw-r--r-- 1 root root     0 Mar 27  2023 pri022                                                                                                     
+-rw-r--r-- 1 root root     0 Feb 29 06:48 p.txt                                                                                                      
+-rw-r--r-- 1 root root     0 Apr  3  2023 Querry.txt                                                                                                 
+-rw-r--r-- 1 root root    12 Feb 29 07:05 rimjhim.txt                                                                                                
+-rw-r--r-- 1 root root     0 Apr  3  2023 Ritika                                                                                                     
+-rw-r--r-- 1 root root    24 Apr  3  2023 Ritu                                                                                                       
+-rw-r--r-- 1 root root    82 Apr  3  2023 Ritu2                                                                                                      
+-rw-r--r-- 1 root root    33 Mar 27  2023 Riya                                                                                                       
+-rw-r--r-- 1 root root     5 Mar 27  2023 s69                                                                                                        
+-rw-r--r-- 1 root root    15 Mar 27  2023 saikat2                                                                                                    
+-rw-r--r-- 1 root root    23 Mar 27  2023 SDRB                                                                                                       
+-rw-r--r-- 1 root root     8 Mar 20  2023 sonu2                                                                                                      
+-rw-r--r-- 1 root root    15 Mar 27  2023 sony                                                                                                       
+-rw-r--r-- 1 root root    15 Mar 27  2023 sony.txt                                                                                                   
+-rw-r--r-- 1 root root    51 Apr  3  2023 srij                                                                                                       
+-rw-r--r-- 1 root root    16 Mar 27  2023 ss                                                                                                         
+-rw-r--r-- 1 root root    10 Mar 27  2023 ss2.txt                                                                                                    
+-rw-r--r-- 1 root root 10941 Feb 15 06:13 stud1.java                                                                                                 
+-rw-r--r-- 1 root root   176 Apr 24  2023 sura.csv                                                                                                   
+-rw-r--r-- 1 root root    28 Apr  3  2023 swati2                                                                                                     
+-rw-r--r-- 1 root root    26 Apr 24  2023 swati2.txt                                                                                                 
+-rw-r--r-- 1 root root     0 Feb 29 06:21 t1                                                                                                         
+-rw-r--r-- 1 root root  8883 Feb  7 05:10 t1.java                                                                                                    
+-rw-r--r-- 1 root root    13 Mar 10  2023 t1.txt                                                                                                     
+-rw-r--r-- 1 root root 10893 Feb  7 06:38 t2.java                                                                                                    
+-rw-r--r-- 1 root root 10893 Feb  2 09:03 t3.java                                                                                                    
+-rw-r--r-- 1 root root     0 Apr  3  2023 test3.txt                                                                                                  
+-rw-r--r-- 1 root root    12 May  8  2023 test4.txt                                                                                                  
+-rw-r--r-- 1 root root     0 Apr  3  2023 text2.txt                                                                                                  
+-rw-r--r-- 1 root root    12 Apr  3  2023 text3.txt                                                                                                  
+-rw-r--r-- 1 root root    20 Apr  3  2023 text4.txt                                                                                                  
+-rw-r--r-- 1 root root     0 Feb 29 06:52 text55.txt                                                                                                 
+-rw-r--r-- 1 root root     0 Feb 29 06:51 text5.txt                                                                                                  
+-rw-r--r-- 1 root root  2853 Apr  3  2023 textfile                                                                                                   
+-rw-r--r-- 1 root root  2853 Apr  3  2023 textfile.txt                                                                                               
+-rw-r--r-- 1 root root     0 Feb 29 06:47 tt.txtx                                                                                                    
+-rw-r--r-- 1 root root    10 May  8  2023 wfile.txt                                                                                                  
+-rw-r--r-- 1 root root     0 May  8  2023 zfile.txt                                                                                                  
+-rw-r--r-- 1 root root     6 Mar 13 05:43 zonu1                                                                                                      
+-rw-r--r-- 1 root root    11 Mar 27  2023 zonu2                                                                                                      
+[root@sandbox-hdp ~]# hadoop fs -ls hdfsdir24_17                                                                                                     
+Found 2 items                                                                                                                                        
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:36 hdfsdir24_17/hadoopfile1_17                                                                     
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hdfsdir24_17/hadoopfile_24_17                                                                   
+[root@sandbox-hdp ~]# hadoop fs -chmod ugo+x hdfsdir24_17/hadoopfile1_17                                                                             
+chmod: changing permissions of 'hdfsdir24_17/hadoopfile1_17': Cannot set permission for /user/root/hdfsdir24_17/hadoopfile1_17. Name node is in safe 
+mode.                                                                                                                                                
+[root@sandbox-hdp ~]# h                                                                                                                              
+[root@sandbox-hdp ~]# sudo-u hdfs hdfs dfsadmin -safemode leave                                                                                      
+-bash: sudo-u: command not found                                                                                                                     
+[root@sandbox-hdp ~]# sudo -u hdfs hdfs dfsadmin -safemode leave                                                                                     
+Safe mode is OFF                                                                                                                                     
+[root@sandbox-hdp ~]# hadoop fs -chmod ugo+x hdfsdir24_17/hadoopfile1_17                                                                             
+[root@sandbox-hdp ~]# hadoop fs -ls hdfsdir24_17                                                                                                     
+Found 2 items                                                                                                                                        
+-rwxr-xr-x   1 root hdfs          0 2024-03-13 06:36 hdfsdir24_17/hadoopfile1_17                                                                     
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hdfsdir24_17/hadoopfile_24_17                                                                   
+[root@sandbox-hdp ~]# hadoop fs -chmod ugo+w hdfsdir24_17/hadoopfile1_17                                                                             
+[root@sandbox-hdp ~]# hadoop fs -chmod ugo+r hdfsdir24_17/hadoopfile1_17                                                                             
+[root@sandbox-hdp ~]# hadoop fs -chmod ugo-x hdfsdir24_17/hadoopfile1_17                                                                             
+[root@sandbox-hdp ~]# hadoop fs -ls                                                                                                                  
+Found 273 items                                                                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-03-20 06:05 {hive_metastore_warehouse_dir}                                                                  
+drwx------   - root hdfs          0 2024-02-29 06:37 .Trash                                                                                          
+drwx------   - root hdfs          0 2024-02-22 06:15 .staging                                                                                        
+-rw-r--r--   1 root hdfs        795 2023-04-24 05:44 66.csv                                                                                          
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:33 777                                                                                             
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:48 AD64                                                                                            
+-rw-r--r--   4 root hdfs         24 2023-04-03 09:09 AK                                                                                              
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:57 Abhishek                                                                                        
+drwxrwxrwx   - root hdfs          0 2023-04-24 07:04 Abir                                                                                            
+-rw-rw-rw-   1 root hdfs         12 2023-05-08 13:51 Anurag                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:21 Anushka                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-05-02 08:50 Arka                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-25 10:07 Arkahul732                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:34 Cherry                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:31 Cherry2                                                                                         
+-rw-r--r--   1 root hdfs          0 2023-03-27 06:12 IT                                                                                              
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:09 MYDIR24_17                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:11 MYDIR24_29                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:21 Mou                                                                                             
+-rw-r--r--   1 root hdfs          0 2023-04-24 07:34 NewFile                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:06 Newfile                                                                                         
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:54 PDRB                                                                                            
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:19 Param2_31                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:19 Param3_31                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:15 Param_31                                                                                        
+-rw-r--r--   4 root hdfs         24 2023-04-03 09:10 Ritu3                                                                                           
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:14 SACCHA_ASHIQ                                                                                    
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:04 SACHHA_ASHIQ                                                                                    
+-rw-r--r--   1 root hdfs          0 2023-03-27 11:52 SDRB                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:31 Sarnendu                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:31 Sarnendu10                                                                                      
+drwxrwxrwx   - root hdfs          0 2023-04-03 09:12 Sayantan                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:09 Srijit                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:16 abhirup                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:31 abhirup_11                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:44 aman                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 ananya                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:05 anurag                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:44 baban                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:26 bajechele                                                                                       
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:33 chat.txt                                                                                        
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 chayaaaan                                                                                       
+-rw-r--r--   4 root hdfs         21 2023-04-03 09:10 chiku.txt                                                                                       
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:33 chmod                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:59 d3350                                                                                           
+drwxr-xr-x   - root hdfs          0 2024-02-22 06:12 d40                                                                                             
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:43 d5960                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd40                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 06:17 dd44                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd49                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 06:15 dd51                                                                                            
+-rw-r--r--   1 root hdfs        177 2023-04-24 05:07 dd55                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:11 dd5560                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:07 dd56                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd57                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:08 dd5960                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:22 dd61                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd64                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:19 dd66                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:59 dd67                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:06 dd68                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:59 dd69                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd70                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:23 diptanu                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 06:31 dipu88                                                                                          
+drwxrwxrwx   - root hdfs          0 2024-02-15 06:06 dir1                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:10 dir2                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 07:44 doc1.csv                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 06:45 doc2.csv                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:55 docor.csv                                                                                       
+-rw-r--r--   1 root hdfs          0 2023-04-24 07:33 doctordata.csv._COPYING_                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-24 06:06 dotor.csv                                                                                       
+-rw-r--r--   4 root hdfs         28 2023-04-03 09:10 f2.txt                                                                                          
+-rw-r--r--   4 root hdfs         28 2023-04-03 09:10 f3.txt                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:48 f64                                                                                             
+-rw-r--r--   1 root hdfs          0 2024-02-15 05:57 ff                                                                                              
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:48 file                                                                                            
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:49 file1                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:00 file1_24                                                                                        
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:52 file57                                                                                          
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoofile_24_24                                                                                 
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:52 hadoopdir-24-28                                                                                 
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:48 hadoopfil_24_11                                                                                 
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:50 hadoopfile                                                                                      
+-rw-r--r--   1 root hdfs          0 2023-05-08 14:09 hadoopfile..txt                                                                                 
+-rw-r--r--   1 root hdfs          0 2023-05-08 13:40 hadoopfile.txt                                                                                  
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:18 hadoopfile1                                                                                     
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:24 hadoopfile1_24_27                                                                               
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:48 hadoopfile2_24_11                                                                               
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:45 hadoopfile69                                                                                    
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoopfile_24_03                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_035                                                                               
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_07                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoopfile_24_10                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:24 hadoopfile_24_11                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoopfile_24_13                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:21 hadoopfile_24_18                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_21                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_32                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:21 hadoopfile_24_34                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:23 hadoopfile_24_36                                                                                
+-rw-r--r--   1 root hdfs          0 2024-02-29 07:14 hadoopfile_31                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:25 hdfs_24_10                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:36 hdfs_24_21                                                                                      
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:25 hdfs_24_34                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:03 hdfsdir                                                                                         
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir-24-23                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:56 hdfsdir-24-28                                                                                   
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:02 hdfsdir-68                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:03 hdfsdir01                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:51 hdfsdir22                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:51 hdfsdir24_17                                                                                    
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:19 hdfsdir44                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:52 hdfsdir5                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:58 hdfsdir68                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:13 hdfsdir_03                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:24 hdfsdir_055                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:25 hdfsdir_060                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:00 hdfsdir_1                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:11 hdfsdir_24                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:45 hdfsdir_24_007                                                                                  
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:35 hdfsdir_24_03                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:20 hdfsdir_24_031                                                                                  
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:43 hdfsdir_24_035                                                                                  
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:35 hdfsdir_24_10                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:50 hdfsdir_24_11                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir_24_12                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:37 hdfsdir_24_13                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:35 hdfsdir_24_18                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir_24_19                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:45 hdfsdir_24_20                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:47 hdfsdir_24_24                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:53 hdfsdir_24_27                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:52 hdfsdir_24_29                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:52 hdfsdir_24_30                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:34 hdfsdir_24_31                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:52 hdfsdir_24_32                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:36 hdfsdir_24_34                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:47 hdfsdir_24_36                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir_24_37                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:47 hdfsdir_34_031                                                                                  
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:03 hdfsdir_35                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-05-08 13:54 hdfsdir_5                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:42 hdfsdir_64                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-05-08 09:54 hdfsdir_youroll                                                                                 
+-rw-r--r--   1 root hdfs          0 2023-05-08 09:52 hdfsdir_yourroll                                                                                
+drwxr-xr-x   - root hdfs          0 2023-03-20 06:08 id.out                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-03-20 06:22 id1.csv                                                                                         
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:12 imdead                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:10 imdeadalready                                                                                   
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:11 ippo                                                                                            
+d---------   - root hdfs          0 2023-04-03 08:40 keshaw                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:14 lippo                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:05 mkdir                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:47 mkdir_039                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:43 mkdir_066                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 09:58 myd                                                                                             
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:06 mydie-24-05                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:07 mydir                                                                                           
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir-24-01                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:00 mydir-24-05                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:17 mydir-24-12                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:59 mydir-24-22                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:11 mydir-24-23                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:01 mydir-24-24                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:03 mydir-24-28                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:16 mydir-24-37                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:25 mydir02_09_2001                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-05-02 09:00 mydir06                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:29 mydir12-11-2002                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:08 mydir23                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 09:03 mydir23-11-2000                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:27 mydir24                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:34 mydir25                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:23 mydir25_06_2002                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:11 mydir25_12_2001                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:08 mydir33                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:26 mydir37                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 09:03 mydir37-11-2002                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:06 mydir38                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-27 06:20 mydir49                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:57 mydir57                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:59 mydir61                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:57 mydir64                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:40 mydir67                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:02 mydir68                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:40 mydir69                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:55 mydir70                                                                                         
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:26 mydir_03                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:03 mydir_039                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:21 mydir_055                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:39 mydir_060                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:33 mydir_1                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:03 mydir_11                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:35 mydir_14                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:08 mydir_16                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:22 mydir_218                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:01 mydir_24                                                                                        
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:01 mydir_24_007                                                                                    
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_035                                                                                    
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_10                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:03 mydir_24_11                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:26 mydir_24_13                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:00 mydir_24_18                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir_24_19                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir_24_20                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_21                                                                                     
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:23 mydir_24_24                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:00 mydir_24_27                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir_24_30                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:14 mydir_24_31                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:01 mydir_24_32                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:46 mydir_24_34                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_36                                                                                     
+-rw-r--r--   1 root hdfs         49 2024-03-13 07:00 mydir_24_37                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:36 mydir_26                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:02 mydir_27                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:01 mydir_34                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:55 mydir_35                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:13 mydir_44                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:02 mydir_5                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:02 mydir_68                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 09:49 mydir_youroll                                                                                   
+-rw-r--r--   1 root hdfs          0 2023-05-08 09:48 mydir_yourroll                                                                                  
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:29 mydiranindita                                                                                   
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:35 mydirdeblina                                                                                    
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:44 newdir                                                                                          
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:23 newfile                                                                                         
+-rw-r--r--   1 root hdfs          6 2024-03-13 06:58 newfile_24_11                                                                                   
+-rw-r--r--   1 root hdfs         59 2024-03-13 06:58 newfile_24_12.txt                                                                               
+-rw-r--r--   1 root hdfs         31 2024-03-13 06:58 newfile_24_24                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:58 newfile_24_32                                                                                   
+-rw-r--r--   1 root hdfs          7 2024-03-13 06:59 newfile_24_36                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:18 oreo                                                                                            
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:24 param                                                                                           
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:36 param2                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:50 pintu                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 piyu55                                                                                          
+drwxr-xr-x   - root hdfs          0 2024-02-01 06:05 postgresexport                                                                                  
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:50 pri                                                                                             
+-rw-r--r--   1 root hdfs          0 2023-03-27 11:56 pri02                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:12 pri56                                                                                           
+-rw-r--r--   1 root hdfs          0 2023-05-08 10:28 pritha                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:29 prithaexam                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:10 ratan                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:38 riya                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:15 s66                                                                                             
+-rw-r--r--   1 root hdfs          0 2023-03-27 06:11 saikat                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-27 12:06 saikat44                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 shreya                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:56 sonu                                                                                            
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:11 sonu1                                                                                           
+-rw-r--r--   1 root hdfs          8 2023-03-20 12:00 sonu2                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 sony                                                                                            
+-rw-r--r--   4 root hdfs         51 2023-04-03 09:10 srij.txt                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:04 srijita                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 09:27 srz                                                                                             
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:38 sup                                                                                             
+-rw-r--r--   1 root hdfs        176 2023-04-24 05:15 sura.csv                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-25 10:03 swati_030                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:13 swati_30                                                                                        
+drwxr-xr-x   - root hdfs          0 2024-02-22 06:14 t1                                                                                              
+drwxr-xr-x   - root hdfs          0 2024-02-22 06:15 t2                                                                                              
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:52 tanishaexam                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:14 test                                                                                            
+-rw-r--r--   1 root hdfs          0 2023-03-10 05:18 test1.txt                                                                                       
+-rw-r--r--   4 root hdfs          0 2023-03-14 07:40 test2.txt                                                                                       
+-rw-r--r--   4 root hdfs          0 2023-03-14 08:18 test3.txt                                                                                       
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:24 testfl1                                                                                         
+-rw-r--r--   4 root hdfs         12 2023-04-03 09:08 text5.txt                                                                                       
+drw-r--r--   - root hdfs          0 2024-02-01 06:19 tt                                                                                              
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:29 vivek                                                                                           
+-rwxr-xr-x   1 root hdfs          0 2023-03-27 06:10 zonu                                                                                            
+[root@sandbox-hdp ~]# hadoop fs -ls                                                                                                                  
+Found 273 items                                                                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-03-20 06:05 {hive_metastore_warehouse_dir}                                                                  
+drwx------   - root hdfs          0 2024-02-29 06:37 .Trash                                                                                          
+drwx------   - root hdfs          0 2024-02-22 06:15 .staging                                                                                        
+-rw-r--r--   1 root hdfs        795 2023-04-24 05:44 66.csv                                                                                          
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:33 777                                                                                             
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:48 AD64                                                                                            
+-rw-r--r--   4 root hdfs         24 2023-04-03 09:09 AK                                                                                              
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:57 Abhishek                                                                                        
+drwxrwxrwx   - root hdfs          0 2023-04-24 07:04 Abir                                                                                            
+-rw-rw-rw-   1 root hdfs         12 2023-05-08 13:51 Anurag                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:21 Anushka                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-05-02 08:50 Arka                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-25 10:07 Arkahul732                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:34 Cherry                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:31 Cherry2                                                                                         
+-rw-r--r--   1 root hdfs          0 2023-03-27 06:12 IT                                                                                              
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:09 MYDIR24_17                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:11 MYDIR24_29                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:21 Mou                                                                                             
+-rw-r--r--   1 root hdfs          0 2023-04-24 07:34 NewFile                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:06 Newfile                                                                                         
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:54 PDRB                                                                                            
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:19 Param2_31                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:19 Param3_31                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:15 Param_31                                                                                        
+-rw-r--r--   4 root hdfs         24 2023-04-03 09:10 Ritu3                                                                                           
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:14 SACCHA_ASHIQ                                                                                    
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:04 SACHHA_ASHIQ                                                                                    
+-rw-r--r--   1 root hdfs          0 2023-03-27 11:52 SDRB                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:31 Sarnendu                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:31 Sarnendu10                                                                                      
+drwxrwxrwx   - root hdfs          0 2023-04-03 09:12 Sayantan                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:09 Srijit                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:16 abhirup                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:31 abhirup_11                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:44 aman                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 ananya                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:05 anurag                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:44 baban                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:26 bajechele                                                                                       
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:33 chat.txt                                                                                        
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 chayaaaan                                                                                       
+-rw-r--r--   4 root hdfs         21 2023-04-03 09:10 chiku.txt                                                                                       
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:33 chmod                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:59 d3350                                                                                           
+drwxr-xr-x   - root hdfs          0 2024-02-22 06:12 d40                                                                                             
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:43 d5960                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd40                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 06:17 dd44                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd49                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 06:15 dd51                                                                                            
+-rw-r--r--   1 root hdfs        177 2023-04-24 05:07 dd55                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:11 dd5560                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:07 dd56                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd57                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:08 dd5960                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:22 dd61                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd64                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:19 dd66                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:59 dd67                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:06 dd68                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:59 dd69                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:21 dd70                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:23 diptanu                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 06:31 dipu88                                                                                          
+drwxrwxrwx   - root hdfs          0 2024-02-15 06:06 dir1                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:10 dir2                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-03-27 07:44 doc1.csv                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 06:45 doc2.csv                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:55 docor.csv                                                                                       
+-rw-r--r--   1 root hdfs          0 2023-04-24 07:33 doctordata.csv._COPYING_                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-24 06:06 dotor.csv                                                                                       
+-rw-r--r--   4 root hdfs         28 2023-04-03 09:10 f2.txt                                                                                          
+-rw-r--r--   4 root hdfs         28 2023-04-03 09:10 f3.txt                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:48 f64                                                                                             
+-rw-r--r--   1 root hdfs          0 2024-02-15 05:57 ff                                                                                              
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:48 file                                                                                            
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:49 file1                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:00 file1_24                                                                                        
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:52 file57                                                                                          
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoofile_24_24                                                                                 
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:52 hadoopdir-24-28                                                                                 
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:48 hadoopfil_24_11                                                                                 
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:50 hadoopfile                                                                                      
+-rw-r--r--   1 root hdfs          0 2023-05-08 14:09 hadoopfile..txt                                                                                 
+-rw-r--r--   1 root hdfs          0 2023-05-08 13:40 hadoopfile.txt                                                                                  
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:18 hadoopfile1                                                                                     
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:24 hadoopfile1_24_27                                                                               
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:48 hadoopfile2_24_11                                                                               
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:45 hadoopfile69                                                                                    
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoopfile_24_03                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_035                                                                               
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_07                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoopfile_24_10                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:24 hadoopfile_24_11                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hadoopfile_24_13                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:21 hadoopfile_24_18                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_21                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:19 hadoopfile_24_32                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:21 hadoopfile_24_34                                                                                
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:23 hadoopfile_24_36                                                                                
+-rw-r--r--   1 root hdfs          0 2024-02-29 07:14 hadoopfile_31                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:25 hdfs_24_10                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:36 hdfs_24_21                                                                                      
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:25 hdfs_24_34                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:03 hdfsdir                                                                                         
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir-24-23                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:56 hdfsdir-24-28                                                                                   
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:02 hdfsdir-68                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:03 hdfsdir01                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:51 hdfsdir22                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:51 hdfsdir24_17                                                                                    
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:19 hdfsdir44                                                                                       
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:52 hdfsdir5                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-03-27 11:58 hdfsdir68                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:13 hdfsdir_03                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:24 hdfsdir_055                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:25 hdfsdir_060                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:00 hdfsdir_1                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:11 hdfsdir_24                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:45 hdfsdir_24_007                                                                                  
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:35 hdfsdir_24_03                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:20 hdfsdir_24_031                                                                                  
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:43 hdfsdir_24_035                                                                                  
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:35 hdfsdir_24_10                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:50 hdfsdir_24_11                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir_24_12                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:37 hdfsdir_24_13                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:35 hdfsdir_24_18                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir_24_19                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:45 hdfsdir_24_20                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:47 hdfsdir_24_24                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:53 hdfsdir_24_27                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:52 hdfsdir_24_29                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:52 hdfsdir_24_30                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:34 hdfsdir_24_31                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:52 hdfsdir_24_32                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:36 hdfsdir_24_34                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:47 hdfsdir_24_36                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:48 hdfsdir_24_37                                                                                   
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:47 hdfsdir_34_031                                                                                  
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:03 hdfsdir_35                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-05-08 13:54 hdfsdir_5                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:42 hdfsdir_64                                                                                      
+drwxr-xr-x   - root hdfs          0 2023-05-08 09:54 hdfsdir_youroll                                                                                 
+-rw-r--r--   1 root hdfs          0 2023-05-08 09:52 hdfsdir_yourroll                                                                                
+drwxr-xr-x   - root hdfs          0 2023-03-20 06:08 id.out                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-03-20 06:22 id1.csv                                                                                         
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:12 imdead                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:10 imdeadalready                                                                                   
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:11 ippo                                                                                            
+d---------   - root hdfs          0 2023-04-03 08:40 keshaw                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-04-03 08:14 lippo                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:05 mkdir                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:47 mkdir_039                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:43 mkdir_066                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 09:58 myd                                                                                             
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:06 mydie-24-05                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:07 mydir                                                                                           
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir-24-01                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:00 mydir-24-05                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:17 mydir-24-12                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:59 mydir-24-22                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:11 mydir-24-23                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:01 mydir-24-24                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:03 mydir-24-28                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:16 mydir-24-37                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:25 mydir02_09_2001                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-05-02 09:00 mydir06                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:29 mydir12-11-2002                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:08 mydir23                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 09:03 mydir23-11-2000                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:27 mydir24                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:34 mydir25                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:23 mydir25_06_2002                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:11 mydir25_12_2001                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:08 mydir33                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:26 mydir37                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 09:03 mydir37-11-2002                                                                                 
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:06 mydir38                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-27 06:20 mydir49                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:57 mydir57                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:59 mydir61                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:57 mydir64                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:40 mydir67                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:02 mydir68                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:40 mydir69                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-03-20 11:55 mydir70                                                                                         
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:26 mydir_03                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 11:03 mydir_039                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:21 mydir_055                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:39 mydir_060                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:33 mydir_1                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:03 mydir_11                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:35 mydir_14                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:08 mydir_16                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:22 mydir_218                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-05-08 15:01 mydir_24                                                                                        
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:01 mydir_24_007                                                                                    
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_035                                                                                    
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_10                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:03 mydir_24_11                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:26 mydir_24_13                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:00 mydir_24_18                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir_24_19                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir_24_20                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_21                                                                                     
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:23 mydir_24_24                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:00 mydir_24_27                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:13 mydir_24_30                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:14 mydir_24_31                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:01 mydir_24_32                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 06:46 mydir_24_34                                                                                     
+drwxr-xr-x   - root hdfs          0 2024-03-13 07:02 mydir_24_36                                                                                     
+-rw-r--r--   1 root hdfs         49 2024-03-13 07:00 mydir_24_37                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:36 mydir_26                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-24 07:02 mydir_27                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:01 mydir_34                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:55 mydir_35                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:13 mydir_44                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:02 mydir_5                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:02 mydir_68                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-05-08 09:49 mydir_youroll                                                                                   
+-rw-r--r--   1 root hdfs          0 2023-05-08 09:48 mydir_yourroll                                                                                  
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:29 mydiranindita                                                                                   
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:35 mydirdeblina                                                                                    
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:44 newdir                                                                                          
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:23 newfile                                                                                         
+-rw-r--r--   1 root hdfs          6 2024-03-13 06:58 newfile_24_11                                                                                   
+-rw-r--r--   1 root hdfs         59 2024-03-13 06:58 newfile_24_12.txt                                                                               
+-rw-r--r--   1 root hdfs         31 2024-03-13 06:58 newfile_24_24                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:58 newfile_24_32                                                                                   
+-rw-r--r--   1 root hdfs          7 2024-03-13 06:59 newfile_24_36                                                                                   
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:18 oreo                                                                                            
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:24 param                                                                                           
+drwxr-xr-x   - root hdfs          0 2024-02-29 06:36 param2                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:50 pintu                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 piyu55                                                                                          
+drwxr-xr-x   - root hdfs          0 2024-02-01 06:05 postgresexport                                                                                  
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:50 pri                                                                                             
+-rw-r--r--   1 root hdfs          0 2023-03-27 11:56 pri02                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:12 pri56                                                                                           
+-rw-r--r--   1 root hdfs          0 2023-05-08 10:28 pritha                                                                                          
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:29 prithaexam                                                                                      
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:10 ratan                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:38 riya                                                                                            
+drwxr-xr-x   - root hdfs          0 2023-04-24 05:15 s66                                                                                             
+-rw-r--r--   1 root hdfs          0 2023-03-27 06:11 saikat                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-27 12:06 saikat44                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 shreya                                                                                          
+-rw-r--r--   1 root hdfs          0 2023-03-20 11:56 sonu                                                                                            
+drwxr-xr-x   - root hdfs          0 2024-02-29 07:11 sonu1                                                                                           
+-rw-r--r--   1 root hdfs          8 2023-03-20 12:00 sonu2                                                                                           
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:15 sony                                                                                            
+-rw-r--r--   4 root hdfs         51 2023-04-03 09:10 srij.txt                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:04 srijita                                                                                         
+drwxr-xr-x   - root hdfs          0 2023-04-03 09:27 srz                                                                                             
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:38 sup                                                                                             
+-rw-r--r--   1 root hdfs        176 2023-04-24 05:15 sura.csv                                                                                        
+drwxr-xr-x   - root hdfs          0 2023-04-25 10:03 swati_030                                                                                       
+drwxr-xr-x   - root hdfs          0 2023-04-03 08:13 swati_30                                                                                        
+drwxr-xr-x   - root hdfs          0 2024-02-22 06:14 t1                                                                                              
+drwxr-xr-x   - root hdfs          0 2024-02-22 06:15 t2                                                                                              
+drwxr-xr-x   - root hdfs          0 2023-05-08 14:52 tanishaexam                                                                                     
+drwxr-xr-x   - root hdfs          0 2023-03-27 12:14 test                                                                                            
+-rw-r--r--   1 root hdfs          0 2023-03-10 05:18 test1.txt                                                                                       
+-rw-r--r--   4 root hdfs          0 2023-03-14 07:40 test2.txt                                                                                       
+-rw-r--r--   4 root hdfs          0 2023-03-14 08:18 test3.txt                                                                                       
+-rw-r--r--   1 root hdfs          0 2024-02-29 06:24 testfl1                                                                                         
+-rw-r--r--   4 root hdfs         12 2023-04-03 09:08 text5.txt                                                                                       
+drw-r--r--   - root hdfs          0 2024-02-01 06:19 tt                                                                                              
+drwxr-xr-x   - root hdfs          0 2023-05-08 10:29 vivek                                                                                           
+-rwxr-xr-x   1 root hdfs          0 2023-03-27 06:10 zonu                                                                                            
+[root@sandbox-hdp ~]# hadoop fs -Ddfs.replication=4 -cp hadoopfile1_17 shreya                                                                        
+cp: `hadoopfile1_17': No such file or directory                                                                                                      
+[root@sandbox-hdp ~]# hadoop fs -Ddfs.replication=4 -cp hadoopfile1_17 shreya                                                                        
+cp: `hadoopfile1_17': No such file or directory                                                                                                      
+                                                                                                                                                     
+[root@sandbox-hdp ~]#                                                                                                                                
+[root@sandbox-hdp ~]# hadoop fs -ls hdfsdir24_17                                                                                                     
+Found 2 items                                                                                                                                        
+-rw-rw-rw-   1 root hdfs          0 2024-03-13 06:36 hdfsdir24_17/hadoopfile1_17                                                                     
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hdfsdir24_17/hadoopfile_24_17                                                                   
+[root@sandbox-hdp ~]# hadoop fs -Ddfs.replication=4 -cp hdfsdir24_17/hadoopfile1_17 hdfsdir24_17/ff                                                  
+[root@sandbox-hdp ~]# hadoop fs -ls hdfsdir24_17                                                                                                     
+Found 3 items                                                                                                                                        
+-rw-r--r--   4 root hdfs          0 2024-03-13 07:45 hdfsdir24_17/ff                                                                                 
+-rw-rw-rw-   1 root hdfs          0 2024-03-13 06:36 hdfsdir24_17/hadoopfile1_17                                                                     
+-rw-r--r--   1 root hdfs          0 2024-03-13 06:20 hdfsdir24_17/hadoopfile_24_17                                                                   
+[root@sandbox-hdp ~]# sudo -u hdfs hdfs fsck hdfsdir24_17/hadoopfile1_17 -files -blocks -locations                                                   
+-bash: ssudo: command not found                                                                                                                      
+[root@sandbox-hdp ~]# sudo -u hdfs hdfs fsck hdfsdir24_17/hadoopfile1_17 -files -blocks -locations                                                   
+FileSystem is inaccessible due to:                                                                                                                   
+java.io.FileNotFoundException: File does not exist: hdfs://sandbox-hdp.hortonworks.com:8020/user/hdfs/hdfsdir24_17/hadoopfile1_17                    
+DFSck exiting.                                                                                                                                       
+[root@sandbox-hdp ~]# sudo -u hdfs hdfs fsck hdfsdir24_17/hadoopfile_24_17 -files -blocks -locations                                                 
+FileSystem is inaccessible due to:                                                                                                                   
+java.io.FileNotFoundException: File does not exist: hdfs://sandbox-hdp.hortonworks.com:8020/user/hdfs/hdfsdir24_17/hadoopfile_24_17                  
+DFSck exiting.                                                                                                                                       
+[root@sandbox-hdp ~]# sudo -u hdfs hdfs fsck /user/root/hdfsdir24_17/hadoopfile1_17 -files -blocks -locations                                        
+Connecting to namenode via http://sandbox-hdp.hortonworks.com:50070/fsck?ugi=hdfs&files=1&blocks=1&locations=1&path=%2Fuser%2Froot%2Fhdfsdir24_17%2Fh
+adoopfile1_17                                                                                                                                        
+FSCK started by hdfs (auth:SIMPLE) from /172.18.0.2 for path /user/root/hdfsdir24_17/hadoopfile1_17 at Wed Mar 13 07:56:54 UTC 2024                  
+/user/root/hdfsdir24_17/hadoopfile1_17 0 bytes, replicated: replication=1, 0 block(s):  OK                                                           
+                                                                                                                                                     
+                                                                                                                                                     
+Status: HEALTHY                                                                                                                                      
+ Number of data-nodes:  1                                                                                                                            
+ Number of racks:               1                                                                                                                    
+ Total dirs:                    0                                                                                                                    
+ Total symlinks:                0                                                                                                                    
+                                                                                                                                                     
+Replicated Blocks:                                                                                                                                   
+ Total size:    0 B                                                                                                                                  
+ Total files:   1                                                                                                                                    
+ Total blocks (validated):      0                                                                                                                    
+ Minimally replicated blocks:   0                                                                                                                    
+ Over-replicated blocks:        0                                                                                                                    
+ Under-replicated blocks:       0                                                                                                                    
+ Mis-replicated blocks:         0                                                                                                                    
+ Default replication factor:    1                                                                                                                    
+ Average block replication:     0.0                                                                                                                  
+ Missing blocks:                0                                                                                                                    
+ Corrupt blocks:                0                                                                                                                    
+ Missing replicas:              0                                                                                                                    
+                                                                                                                                                     
+Erasure Coded Block Groups:                                                                                                                          
+ Total size:    0 B                                                                                                                                  
+ Total files:   0                                                                                                                                    
+ Total block groups (validated):        0                                                                                                            
+ Minimally erasure-coded block groups:  0                                                                                                            
+ Over-erasure-coded block groups:       0                                                                                                            
+ Under-erasure-coded block groups:      0                                                                                                            
+ Unsatisfactory placement block groups: 0                                                                                                            
+ Average block group size:      0.0                                                                                                                  
+ Missing block groups:          0                                                                                                                    
+ Corrupt block groups:          0                                                                                                                    
+ Missing internal blocks:       0                                                                                                                    
+FSCK ended at Wed Mar 13 07:56:54 UTC 2024 in 0 milliseconds                                                                                         
+                                                                                                                                                     
+                                                                                                                                                     
+The filesystem under path '/user/root/hdfsdir24_17/hadoopfile1_17' is HEALTHY                                                                        
+[root@sandbox-hdp ~]# hadoop version                                                                                                                 
+Hadoop 3.1.1.3.0.1.0-187                                                                                                                             
+Source code repository git@github.com:hortonworks/hadoop.git -r 2820e4d6fc7ec31ac42187083ed5933c823e9784                                             
+Compiled by jenkins on 2018-09-19T10:19Z                                                                                                             
+Compiled with protoc 2.5.0                                                                                                                           
+From source with checksum 889327faf5a6ca5fc06fcf97c13af29                                                                                            
+This command was run using /usr/hdp/3.0.1.0-187/hadoop/hadoop-common-3.1.1.3.0.1.0-187.jar                                                           
+[root@sandbox-hdp ~]#                                                                                                                          
